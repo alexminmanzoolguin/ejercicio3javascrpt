@@ -1,4 +1,4 @@
-# EJECICIO3 javascrpt
+# EJECICIO3 javascript
   Suceción de fibonacci imprime los primeros 50 numeros
   
   
